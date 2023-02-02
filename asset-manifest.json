@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gitthub-finder/static/css/main.25d4812c.css",
+    "main.js": "/gitthub-finder/static/js/main.cb806a1f.js",
+    "static/media/spinner.gif": "/gitthub-finder/static/media/spinner.e2ffacc949faa6aeba7c.gif",
+    "index.html": "/gitthub-finder/index.html",
+    "main.25d4812c.css.map": "/gitthub-finder/static/css/main.25d4812c.css.map",
+    "main.cb806a1f.js.map": "/gitthub-finder/static/js/main.cb806a1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d4812c.css",
+    "static/js/main.cb806a1f.js"
+  ]
+}
